@@ -1,6 +1,15 @@
 # Excel File Fusion Application
+
 This project is a Python application that allows you to import multiple Excel files, merge them into a single Excel file, and generate a PDF file from the merged Excel file. The application uses the following libraries: tkinter, pandas, xlsxwriter, reportlab, and PyPDF2.
 
+## Table of Contents
+
+- [Required Modules](#required-modules)
+- [How to Use the Application](#how-to-use-the-application)
+- [Authors](#authors)
+- [License](#license)
+- [Project Status](#project-status)
+- [Future Potential](#future-potential)
 
 ## Required Modules
 
@@ -25,7 +34,7 @@ Before using this application, make sure you have installed the following module
 
 ## Authors
 
-This project was developed by Ambaza Kimanka Armand.
+This project was developed by AMBAZA KIMANUKA Armand.
 
 ## License
 
